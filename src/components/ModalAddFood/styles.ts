@@ -5,7 +5,7 @@ export const Form = styled(Unform)`
   padding: 48px 40px;
   display: flex;
   flex-direction: column;
-
+  
   h1 {
     font-weight: 600;
     font-size: 36px;
@@ -24,7 +24,6 @@ export const Form = styled(Unform)`
     border: 0;
     background: #39b100;
     color: #fff;
-
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -32,7 +31,7 @@ export const Form = styled(Unform)`
     .text {
       padding: 16px 24px;
     }
-
+    
     .icon {
       display: flex;
       padding: 16px 16px;
